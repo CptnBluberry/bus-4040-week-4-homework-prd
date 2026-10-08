@@ -12,8 +12,14 @@
 
 Question:
 
-Before now, did you use any other software or system to keep track of these programs and speakers?
+Q:Before now, did you use any other software or system to keep track of these programs and speakers?
 
-Of the solutions you looked at, what was the specific thing that made you rule it out?
+A:'t really answer, seemed confused by question
 
-Does she need this to connect with other apps, or have multiple users?
+Q:Of the solutions you looked at, what was the specific thing that made you rule it out?
+
+A: Doesn't want to pay for SaaS
+
+Q:Does she need this to connect with other apps, or have multiple users?
+
+A:unsure
